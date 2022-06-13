@@ -1,0 +1,8 @@
+name: PyraLifesteal
+version: '${project.version}'
+main: me.pyra0.pyralifesteal.PyraLifesteal
+api-version: 1.19
+prefix: PyraLifesteal
+authors: [Pyra0]
+description: Spigot Minecraft plugin inspired by the Lifesteal SMP. When you kill someone, you gain a heart. When you die, you lose a heart.
+website: github.com/Pyra0
